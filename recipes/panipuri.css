@@ -25,7 +25,7 @@ h1{
     font-size:25px;
     border:5px solid #111844;
     border-radius:10px;
-    background-color:white;
+    background-color:#FAFDF6;
 }
 
 img{
@@ -46,7 +46,7 @@ h4{
     padding:15px;
 }
 p{
-    display:inline; 
+    display:inline;
 }
 
 
@@ -55,6 +55,7 @@ p{
     border:2px solid #111844;
 }
 .steps-container{
+    padding:20px;
     margin:20px 0;
     border:2px solid #111844;
 }
